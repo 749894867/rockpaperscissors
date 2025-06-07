@@ -1,7 +1,7 @@
 # 基于多特征融合的石头剪刀布手势识别
 
-## 📹 项目演示
+## 📹 项目演示视频
 
-点击下方图片查看演示视频：
+点击下方图片观看视频：
 
-[![观看视频](assets/video-thumbnail.png)](https://github.com/749894867/rockpaperscissors/blob/main/tensorflow/test/Rock%20Paper%20Scissors.mp4)
+[![点击观看演示视频](assets/video-thumbnail.png)](https://youtu.be/k-g2uq87kK8)
